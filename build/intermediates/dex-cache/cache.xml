@@ -3,129 +3,111 @@
 
     <item
         is-multidex="true"
-        jar="/Users/sunghopark/.android/build-cache/23161e04ad46048813169e8672070054f3f2bcd7/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bed316bfde7c5d7520ebc4e5aed8e04ec98268a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sunghopark/.android/build-cache/9a6b2ad41c50cd6de15be701f69b373e8336be6d/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef4cd00cd1e4e25d6b0ebb2fcf589f8fc3aa38c2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sunghopark/.android/build-cache/0d27647e021aa07e50b3d859fc3a43a4c28ce817/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c495a80d65a7294fea08db045325c6f80b707cd7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="afab65a355c0ef7690be4afbcf9d4c5ce9027b4c">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ea5966effbe9f45f329994decc2b884e80f7da30/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sunghopark/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_2294e3d0ffd15b8202ae50a3609b5ed7177dfaed/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sunghopark/.android/build-cache/34caedc98f4478b085548e754610791755dee689/output/jars/classes.jar"
+        jar="C:\Users\chuck\.android\build-cache\4e3a61932fda8d6362a977fb42d3d20d7b2c8d95\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
         sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d930deedd9475bca507db571308c58c18385cdee/classes.dex" />
+        <dex dex="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4361f4bbe072f9b50aeb3e94e6479d8cc5593fb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/sunghopark/.android/build-cache/9faeb51781d90704ca5428592c7f632b30730586/output/jars/classes.jar"
+        jar="C:\Users\chuck\.android\build-cache\0638c869337708fa7f4f4533573aa4a8bd9779e5\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
         sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac9267c463cf62b6e1544bca3fec8a62aacd9214/classes.dex" />
+        <dex dex="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3386c566f6a21047078c7b39882f8f9995ec9614\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/sunghopark/.android/build-cache/0e7d2b9a237fc23ed5699e13537269b6784d4e8e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_090041fa21abec11c35ba91eced39d4c0b683ec1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c819aa2a58a3ce512d019733885416a0d7ca6436/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sunghopark/.android/build-cache/9e4de08d8c96f2ab7a212f41f229a7befd83671c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3602805b2bb3c23a4d83a21185fdd9d97d5d50a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sunghopark/.android/build-cache/814f8b74326141590321060a557461909b320a09/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42074fb12bf101e0ac5c56d45ad4263a18ee7f40/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sunghopark/.android/build-cache/1b9204f2e6afd662997bbe63fac7c0f226ed43a0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08ca3988ebe10556694422284edf5f2c5cb32622/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sunghopark/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jar="C:\Users\chuck\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
         sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_d78995f7417f8d728089d56e72dffee7cebc1517/classes.dex" />
+        <dex dex="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_773c2c48a3e6f5acd274834c3bd5869579a8a447\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/sunghopark/.android/build-cache/4041860d557af71be96e81c275ef7ae6891a82d1/output/jars/classes.jar"
+        jar="C:\Users\chuck\.android\build-cache\bfbb47ff62d2dc20c7424d17f3bcc41d6a5e305f\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/sunghopark/Desktop/Android/android-samples/tutorials/EarthquakeShelters/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8dc881ec2c772a7bf970e0bcbee1dec2c71bc0f1/classes.dex" />
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d0dc6b93c3e79a3905b25df303330f7df816d91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chuck\.android\build-cache\18f9ff52cc602e8a7643960fb86fc791f1a46633\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6dd7d7fa67b05a9f643cbdabd679f94a3c38e56c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eccb11db04e1ad55900d2b7d17dd28de01db55f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chuck\.android\build-cache\13ea1739c1ee487d6b75b97b4e60ade8ad3129be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_102ce0d39d77c4d721834c7ea402210357a0378c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc8a5a014df9db87d47d85b1e5576e06e6f7a4af">
+        <dex dex="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4e7b2f5e286c48707e00ff83b2cd4cf14a58b88a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chuck\.android\build-cache\e0b6fcb77334bf1653b4db8bdec198a2da3c7565\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69f2f1c2a8023d638b93009d2e515ca267c7d629\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chuck\.android\build-cache\28f675667873f421e7c841dc6f5bcf13a8e16e82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dad41f2ffb7dabdf08865c4e0a7952f69e028172\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chuck\.android\build-cache\2f2d6f254c739c166c85c42a674843cc5a91bd1a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d7eedade99f90a303b10c350e1a0a229128d5fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chuck\.android\build-cache\2128d19f4635c1845e4956f0cd6ed382276f19d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\chuck\Desktop\Projects\Earthquake-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64234192dde4fe53cdab9d0227041fdeb208c977\classes.dex" />
     </item>
 
 </items>
