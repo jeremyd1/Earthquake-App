@@ -2,166 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/b225e0ab4dc7c0159db3154a10308254bd165db9/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/sunghopark/Desktop/Earthquake-App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.2"
-        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_f8c55e6bda87fa02ee2766bcd65a56e2902aedeb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/ad35321c22980c21c1ede5014de69372eaeaeee6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_6e558afdffa017fa36a38039b3c00bc24b9ba2b5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/a2786a055bb529633d14021195467f9897e6b9b4/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_9ab30b53e0cea38722bebaa8333642dd295c95ea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/e6fe2001626604ce7e5670172d71c5a097454665/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_fb4e17481fa957ff6293d4d8ec8425db897d9ec9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_5dcde1d7f008bc688b48fe575f759289fb75331c.jar" />
+        sha1="8c54c8ab0bf4bf5fa0334b9c51a6f71f3854af55">
+        <dex dex="/Users/sunghopark/Desktop/Earthquake-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_53d1a6256a4a3a4ae5de100de5503850e8919f2c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/sunghopark/Desktop/Earthquake-App/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e1a8e92cd39257a8113e6caa77b46883579601c7/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/84a5bbd422e1f8e907f8944b6151a3741c4819be/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_1352370a5efb4f134387425666683b2a3474d300.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="b1bfadb79c8047562aa678d9971e75b2d195daf4">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f1a4a0b58a52ac3357ce0c3fe84c5b171c352f25/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0c1cac55655ff7e1bf9ca31770c71d7b314c653c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/a762b794cb3ace9c7d937da0b76b7caea30a8508/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_8dd4eea5550e17803cc266c991b145e8f2ee79ae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/2a053a3777bb0dadb0c0c63fd86d1bcd122c6593/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_485a643659bbc4d74b67a17f8404f058fb62c4d9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/59afd8f63de41dffa654a973a15821a20cd1cb0c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_0c1edcad8622ff1e03715c3a773fec58c0f31d33.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/9193003a02fb51dee4b042ea7ecaf144b19900bd/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_92b0ec721d98e884c2c058b3a2d8290792083b4e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/5331e4572927aab9b2ef16b51022bac91bdec3b0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_4703c0f5104d79571a9aecfae564d6d9ca1e54e4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/25280373678f5d9ac92632fb768946777a556fb3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_c82333850ca61ea000c564c7b4adef68100d0071.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/74fc89806eb49e2276f854a6b091825b35212479/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_f0e74c8c8a78c18b65183bbacdab860b601905ad.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/e6b0c57fb8bccf751c0a3f62a73bf841322cde71/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_5350d4d26c3dfb5431bd43c39d0199300ab2af82.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jeremyd/.android/build-cache/7eaa9b00cf33ecc6504222c6501a7cebe6901536/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
-        <dex dex="/Users/Jeremyd/Desktop/Earthquake-App/app/build/intermediates/pre-dexed/debug/classes_912b9a2b0a6a3b84e9b92490b772b3a2ab7ea3f2.jar" />
+        <dex dex="/Users/sunghopark/Desktop/Earthquake-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_af283f837c53281b5033c5595a9bc37b1dd4ae2e/classes.dex" />
     </item>
 
 </items>
