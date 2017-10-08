@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EarthquakeShelters</string>
+    <string name="title_activity_shelter1">Map</string>
 </resources>
