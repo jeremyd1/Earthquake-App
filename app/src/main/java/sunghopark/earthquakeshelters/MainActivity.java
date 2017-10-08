@@ -9,6 +9,7 @@ import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.AsyncTask;
+
 import android.os.Bundle;
 import android.os.Handler;
 import android.speech.tts.TextToSpeech;
@@ -73,10 +74,12 @@ public class MainActivity extends AppCompatActivity{
     public static double currlong;
     Button button;
     private static int REQUEST_CODE_RECOVER_PLAY_SERVICES = 200;
-
+  
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        System.out.println(getLastKnownLocation().getLatitude());
         setContentView(R.layout.activity_main);
 
         mLastLocation = getLastKnownLocation();
@@ -97,7 +100,6 @@ public class MainActivity extends AppCompatActivity{
             AlertUser();
         }
     }
-
 
     //Determines whether to enable or disable EarthQuake Alert Feature of the App
     protected void EarthQuakeAlert(View view) {
@@ -301,6 +303,4 @@ public class MainActivity extends AppCompatActivity{
         final Handler handler = new Handler();
         makeAnoun(true);
     }
-
-
 }
